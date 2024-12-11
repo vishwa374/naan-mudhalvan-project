@@ -1,0 +1,7 @@
+{
+  "files": [],
+  "references": [
+    { "path": "./jsconfig.app.js" },
+    { "path": "./jsconfig.node.js" }
+  ]
+}
